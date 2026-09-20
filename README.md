@@ -1,4 +1,4 @@
-﻿# CISC7204 Assignment 01 - mc64181 Liu Zixuan
+﻿# CISC7204 Assignment 01 - mc64181
 
 Data Science coursework for CISC7204 (2026). Notebooks cover the full
 data science workflow: data wrangling, EDA, model development,
